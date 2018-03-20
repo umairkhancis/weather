@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.49.0",
+    "react-native-highlight-words": "^1.0.1",
     "react-native-vector-icons": "^4.5.0"
   },
   "devDependencies": {
